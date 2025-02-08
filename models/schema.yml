@@ -29,5 +29,6 @@ models:
         description: '{{doc("dim_listing_cleansed__minimum_nights")}}'
         tests:
           - positive_value
-
+  - name: dim_hosts_cleansed
+    description: cleansed table which contains airbnb hosts 
             
